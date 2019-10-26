@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Image_of_Dashiell_%22Dash%22_Par_as_he_appears_in_The_Incredibles_and_it%27s_sequel.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/95/Powerpuff_girls_characters.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/88/IncredibleFamily.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Edna_Mode_promotional_image.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Runaways_Vol_1_5_Textless.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ef/Helen_Parr.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Korra_The_Legend_of_Korra.jpg/330px-Korra_The_Legend_of_Korra.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marth_%28character%29.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/05/MOLLY_HAYES.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Nico_Minoru.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Prince_Zuko.jpg/330px-Prince_Zuko.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/de/Static_%28Virgil_Hawkins%29.png",
+      "clicked": false
+    }
+  ]
